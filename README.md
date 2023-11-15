@@ -1,5 +1,5 @@
 # Heart-Disease-Classification
-Evaluating the performance of multiple (almost ALL!) supervised classification algorithms on a Heart Disease dataset
+Evaluating the performance of multiple (almost ALL!) supervised machine learning algorithms on a Heart Disease dataset
 
 ## <u>Overview</u>
 The primary goal of this project is to find the best classifier that effectively distinguishes individuals who have a heart disease from those who do not, and use the results to predict the condition of future patients. For that purpose several classifiers are modelled, as well as ensemble methods such as bagging (bootstrap aggregating), boosting and stacking. The performance of these classifiers is extensively analysed and accuracy metrics are visualised. A discussion section explain the pros and cons of the best performing models, how they differ from each other and which model would I choose for the dataset. 
