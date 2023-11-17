@@ -1,8 +1,8 @@
 # Heart-Disease-Classification
-Evaluating the performance of multiple (almost ALL!) supervised classification algorithms on a Heart Disease dataset
+Evaluating the performance of multiple (almost ALL!) supervised machine learning algorithms on a Heart Disease dataset
 
 ## <u>Overview</u>
-The primary goal of this project is to find the best classifier that effectively distinguishes individuals who have a heart disease from those who do not, and use the results to predict the condition of future patients. For that purpose several classifiers are modelled, as well as ensemble methods such as bagging (bootstrap aggregating), boosting and stacking. The performance of these classifiers is extensively analysed and accuracy metrics are visualised. A discussion section explain the pros and cons of the best performing models, how they differ from each other and which model would I choose for the dataset. 
+The main objective of this project is to identify the optimal classifier that can reliably differentiate individuals with heart disease from those without and utilize the results to predict the health condition of future patients. To achieve this goal, various classifiers and ensemble methods, including bagging (bootstrap aggregating), boosting, and stacking, are implemented. The project involves a thorough analysis of the classifiers' performance based on metrics such as accuracy, recall, precision and the F1-score. The discussion section delves into the strengths and weaknesses of the best-performing models, highlighting their differences and concluding with a recommendation for the most suitable model for the dataset.
 
 ## <u>Context</u>
 Cardiovascular diseases (CVDs) are the number 1 cause of death globally, taking an estimated 17.9 million lives each year, which accounts for 31% of all deaths worldwide. Four out of 5CVD deaths are due to heart attacks and strokes, and one-third of these deaths occur prematurely in people under 70 years of age. Heart failure is a common event caused by CVDs and this dataset contains 11 features that can be used to predict a possible heart disease.
