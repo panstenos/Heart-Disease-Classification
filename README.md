@@ -1,8 +1,8 @@
 # Heart-Disease-Classification
-Evaluating the performance of multiple (almost ALL!) supervised machine learning algorithms on a Heart Disease dataset
+Evaluating the performance of multiple (almost ALL!) supervised machine learning algorithms and using the best model to predict heart condition of patients.
 
 ## <u>Overview</u>
-The main objective of this project is to develop a classification algorithm that identifies individuals with heart disease based on some of their health condition and other relevant attributes. To achieve that several classifiers were trained on a labelled dataset of patients, as well as ensemble methods, boosting and stacking methods. Results from all these methods were thoroughly analysed and the advantages and disadvantages of each of the methods used were rigorously discussed. The classifier that was ultimately selected was the one that achieved the best balance between performance and interpretability.
+The main objective of this project is to develop a classification algorithm that correctly identifies individuals with heart disease based on some of their health condition and other relevant attributes. To achieve that several classifiers were trained on a labelled dataset of patients, as well as ensemble methods, boosting and stacking methods. Results from all these methods were thoroughly analysed and the advantages and disadvantages of each of the methods used were rigorously discussed. The classifier that was ultimately selected was the one that achieved the best balance between performance and interpretability.
 
 ## <u>Context</u>
 Cardiovascular diseases (CVDs) are the number 1 cause of death globally, taking an estimated 17.9 million lives each year, which accounts for 31% of all deaths worldwide. Four out of 5CVD deaths are due to heart attacks and strokes, and one-third of these deaths occur prematurely in people under 70 years of age. Heart failure is a common event caused by CVDs and this dataset contains 11 features that can be used to predict a possible heart disease.
