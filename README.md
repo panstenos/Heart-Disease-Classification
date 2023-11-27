@@ -38,5 +38,3 @@ This dataset was created by combining different datasets already available indep
 
 *Final dataset: 918 observations*
 
-## <u>Supervised Machine Learning, Classification </u>
-
