@@ -38,3 +38,7 @@ This dataset was created by combining different datasets already available indep
 
 *Final dataset: 918 observations*
 
+## Model Performance
+
+Below is the performance of the best models based on selected metrics
+![image](https://github.com/panstenos/Heart-Disease-Classification/assets/112823396/efab5d48-36a8-48eb-bc81-df11350a8630)
